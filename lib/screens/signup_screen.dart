@@ -1,7 +1,6 @@
-import 'package:finalprojectpmoif20aaldyrizkyk/reusable_widgets/reusable_widget.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/dashboard.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/signin_screen.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/utils/color_utils.dart';
+import 'package:finalprojectpmoif20aaldyrizky/reusable_widgets/reusable_widget.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/signin_screen.dart';
+import 'package:finalprojectpmoif20aaldyrizky/utils/color_utils.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

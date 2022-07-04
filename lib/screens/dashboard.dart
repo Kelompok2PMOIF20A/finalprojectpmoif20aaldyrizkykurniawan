@@ -1,11 +1,8 @@
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/pendonor.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/penerima_donor.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/requirement.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/profile.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/signin_screen.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/square.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/pendonor.dart';
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/homepage.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/pendonor.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/penerima_donor.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/requirement.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/profile.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/signin_screen.dart';
 import 'package:flutter/material.dart';
 
 class Dashboard extends StatelessWidget {
@@ -44,7 +41,7 @@ class Dashboard extends StatelessWidget {
               currentAccountPicture: GestureDetector(
                   onTap: () {},
                   child: CircleAvatar(
-                    backgroundImage: AssetImage("assets/images/122.png"),
+                    backgroundImage: AssetImage("assets/images/profile.png"),
                   )),
             ),
             // ListTile(

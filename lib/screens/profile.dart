@@ -1,5 +1,7 @@
-import 'package:finalprojectpmoif20aaldyrizkyk/widgets/info_card.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
+
+import '../widgets.dart';
 
 
 const nama = "Arief Ade I";
@@ -26,7 +28,7 @@ class Profile extends StatelessWidget {
             children: <Widget>[
               CircleAvatar(
                 radius: 50,
-                backgroundImage: AssetImage('assets/images/122.png'),
+                backgroundImage: AssetImage('assets/images/profile.png'),
               ),
               Text(
                 "Arief Ade I",

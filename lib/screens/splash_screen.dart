@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'dart:async';
 
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/signin_screen.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/signin_screen.dart';
 
 class SplashScreenPage extends StatefulWidget {
   @override

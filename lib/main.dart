@@ -1,4 +1,4 @@
-import 'package:finalprojectpmoif20aaldyrizkyk/screens/splash_screen.dart';
+import 'package:finalprojectpmoif20aaldyrizky/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
